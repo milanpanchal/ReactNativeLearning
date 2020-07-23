@@ -18,5 +18,8 @@ https://www.udemy.com/share/101WbwCEodeF1bTH4=/
 ### Layout Systems
 
 * Box Object Model
+  * borderWidth, margin, marginHorizontal, marginVertical, padding
 * Flex Box
+  * Parent: `alignItems`, `justifyContent`, `flexDirection`
+  * Child: `flex`, `alignSelf`
 * Position
