@@ -59,6 +59,12 @@ const HomeScreen = (props) => {
   				onPress={() => props.navigation.navigate('Text')}
   			/>
 
+  			<View style={{height:10}} />
+			<Button 
+			  	title="Go to Text Box Screen Demo"
+  				onPress={() => props.navigation.navigate('Box')}
+  			/>
+
   		</View>
   	);
   
