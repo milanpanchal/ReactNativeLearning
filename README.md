@@ -23,3 +23,7 @@ https://www.udemy.com/share/101WbwCEodeF1bTH4=/
   * Parent: `alignItems`, `justifyContent`, `flexDirection`
   * Child: `flex`, `alignSelf`
 * Position
+  * position
+    * 'relative'( Default)
+    *  'absolute'
+  * top, bottom, left, right

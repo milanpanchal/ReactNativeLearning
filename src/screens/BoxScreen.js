@@ -35,19 +35,23 @@ const styles = StyleSheet.create({
 	textOneStyle: {
 		borderWidth: 1,
 		borderColor: 'red',
-		flex: 2
+		// flex: 2
 	},
 	textTwoStyle: {
 		borderWidth: 1,
-		borderColor: 'red',
-		flex: 4,
-		alignSelf: 'center'
+		borderColor: 'green',
+		// flex: 4,
+		// alignSelf: 'center'
+		position: 'absolute', // 'absolute' , 'relative'( Default)
+		fontSize:10
+
 
 	},
 	textThreeStyle: {
 		borderWidth: 1,
 		borderColor: 'red',
-		flex: 4
+		// flex: 4
+		left: 20
 	}
 
 
